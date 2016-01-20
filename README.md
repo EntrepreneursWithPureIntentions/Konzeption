@@ -1,2 +1,2 @@
 # Konzeption
-This ist the konzeption of Enterpreneurs With Pure Intentions
+In dieser Repo werden Aspekte der Konzeption der Unternehmer mit reinen Absichten behandelt.
