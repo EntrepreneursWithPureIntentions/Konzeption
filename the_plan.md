@@ -26,12 +26,15 @@ This will be our plan for the future...
 > (Wikipedia)
 
 
-> S Spezifisch Ziele : eine Gemeinschaft von Unternehmern mit reinen Absichten gründen, um unter Anderem die Ideen von Anastasia zu unterstützten und umzusetzten. Solange der Gesetzgeber die Ideen der Familienlandsitzsiedlungen nicht gezielt unterstützt, soll die GvUmrA Menschen unterstützten einen Familienlandsitz bekommenzu können.
+> S Spezifisch Ziele: eine Gemeinschaft von Unternehmern mit reinen Absichten gründen, um unter Anderem die Ideen von Anastasia zu unterstützten und umzusetzten. Solange der Gesetzgeber die Ideen der Familienlandsitzsiedlungen nicht gezielt unterstützt, soll die GvUmrA Menschen unterstützten einen Familienlandsitz bekommen zu können.
 
 > M Messbar Ziele: Die menge der erwirtschafteten Mittel und die "Ausschüttung" dieser Mittel an "hilfesuchende" oder "bedürftige" Menschen
 
 > A Akzeptiert Ziele: da es sich bei dem Unternehmen und Gemeinnützigkeit handelt, erwarten die Unternehmer keine Gegenleistung.
 
-> R Realistisch Ziele: ?
+> R Realistische Ziele:
+Es ist alles möglich!
 
-> T Terminiert: ?
+> T Terminiert:
+
+GvUmrA: 4 Jahre?
