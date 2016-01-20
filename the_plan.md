@@ -37,4 +37,8 @@ Es ist alles möglich!
 
 > T Terminiert:
 
-GvUmrA: 4 Jahre?
+------------------------------------------------------------
+
+So, nun haben wir diese Geimeinschaft vorerst als Gemeinschaft der Unternehmenden definiert. Das erste Projekt wird der [Film](https://github.com/EntrepreneursWithPureIntentions/future). Menschen werden mit dazu kommen und uns helfen!
+
+Zum weiteren Plan vom Film, siehe [https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md)
