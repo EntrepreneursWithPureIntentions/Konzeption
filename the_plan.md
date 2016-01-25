@@ -38,6 +38,9 @@ Es ist alles möglich!
 
 > T Terminiert:
 
+
+>> Ziele müssen "AROMA" haben. Aussagefähig, Realistisch, Objektiv, Messbar, Annehmbar.
+
 Das EFQM-Modell ist ein Qualitätsmanagement-System des Total-Quality-Management. Es wurde 1988 von der European Foundation for Quality Management (EFQM) entwickelt. Das EFQM-Modell für Business Excellence ist ein Unternehmensmodell, das eine ganzheitliche Sicht auf Organisationen ermöglicht. Es bietet Organisationen Hilfestellung für den Aufbau und die kontinuierliche Weiterentwicklung von umfassenden Managementsystemen. Die Unternehmen nutzen es als Werkzeug, um auf Grundlage von Selbstbewertungen Stärken und Verbesserungspotentiale zu ermitteln, anzuregen und ihren Geschäftserfolg zu verbessern.[2]
 Das einfache Modell umfasst die drei Säulen:
 1. Menschen
