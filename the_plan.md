@@ -1,7 +1,7 @@
 This will be our plan for the future...
 ------------------------------------------
 
-> wenn wir was planen, sollte es professionell geplant werden, dafür werden als Gurndlage der Unternehmungsplanung 2 Werkzeuge dem Qualitätsmanagement der Betriebswirtschaftslehre: SMART und EFQM-Modell:
+> Wenn wir was planen, sollte es professionell geplant werden, dafür werden als Gurndlage aus Unternehmungsplanung zwei Tolls  des Qualitätsmanagement aus Betriebswirtschaftslehre verwendet: SMART-Projektplanung und EFQM-Modell für ganzheitliche Darstellung des Unternehmens. An diesem Gerüst wird die Gesellschaft für Unternehmer mit reinen Absichten (GfUmrA) gegründet und oraginisiert. 
 
 >> SMART ist ein Akronym für „Specific Measurable Accepted Realistic Time Bound“ und dient z. B. im Projektmanagement, aber auch im Rahmen von Mitarbeiterführung und Personalentwicklung als Kriterium zur eindeutigen Definition von Zielen im Rahmen einer Zielvereinbarung.lotus/model#35
 
