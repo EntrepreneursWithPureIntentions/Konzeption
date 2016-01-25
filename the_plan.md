@@ -1,6 +1,7 @@
 This will be our plan for the future...
 
 __TODO__
+
 > S Spezifisch Ziele: eine Gemeinschaft von Unternehmern mit reinen Absichten gründen, um unter Anderem die Ideen von Anastasia zu unterstützten und umzusetzten. Solange der Gesetzgeber die Ideen der Familienlandsitzsiedlungen nicht gezielt unterstützt, soll die GvUmrA Menschen unterstützten einen Familienlandsitz bekommen zu können.
 
 > M Messbar Ziele: Die menge der erwirtschafteten Mittel und die "Ausschüttung" dieser Mittel an "hilfesuchende" oder "bedürftige" Menschen
@@ -10,7 +11,8 @@ __TODO__
 > R Realistische Ziele:
 Es ist alles möglich!
 
-> T Terminiert:
+> T Terminiert
+
 ------------------------------------------
 
 > Wenn wir was planen, sollte es professionell geplant werden, dafür werden als Gurndlage aus Unternehmungsplanung zwei Tolls  des Qualitätsmanagement aus Betriebswirtschaftslehre verwendet: SMART-Projektplanung und EFQM-Modell für ganzheitliche Darstellung des Unternehmens. An diesem Gerüst wird die Gesellschaft für Unternehmer mit reinen Absichten (GfUmrA) gegründet und oraginisiert. 
@@ -68,8 +70,8 @@ Es ist alles möglich!
 9. Schlüsselergebnisse	15 %
 
 
->> Befähiger-Kriterien 1-5
-__TODO__
+>> Befähiger-Kriterien 1-5 __TODO__
+
 > 1. Führung[Bearbeiten]
 Teilkriterium 1a
 Führungskräfte entwickeln die Vision, Mission, Werte und ethischen Grundsätze und sind Vorbilder.
