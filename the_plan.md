@@ -137,6 +137,49 @@ Schlüsselergebnisse[Bearbeiten]
 Indikatoren: Durchlaufzeiten, Wert des intellektuellen Kapitals
 Wahrnehmung durch Zielgruppe: Rentabilität, Marktanteil
 
+Grundprinzipien 2003
+Das Modell basiert auf acht Grundprinzipien:
+Kundenorientierung
+In den Zeiten gesättigter Märkte, intensiven Wettbewerbs und hoher Informationstransparenz steht der Kunde im Mittelpunkt des Interesses. Denn er entscheidet über den Markterfolg eines Produktes oder einer Dienstleistung. Die erbrachte Leistung der Unternehmung muss den Wünschen und Bedürfnissen der Kunden entsprechen, um dauerhaft erfolgreich am Markt agieren zu können. Nur über den Absatz von Dienstleistungen oder Produkten an Kunden kann die Unternehmung Umsätze generieren, ihre Ziele erreichen und weiterhin am Marktgeschehen teilnehmen.
+
+Dadurch ergeben sich folgende Vorteile:
+motivierte Mitarbeiter
+zufriedene Kunden
+Kundentreue und Kundenbindung
+Stärkung der Marktposition
+Langfristiger Erfolg der Organisation
+
+Partnerschaft mit Lieferanten
+Mit den Lieferanten sollte vertrauensvoll zusammengearbeitet werden. Die Leistungen der Zulieferer gehen als Input in den Produktionsprozess mit ein und wirken sich somit auf die Qualität des Endproduktes aus. Partnerschaften mit Zulieferunternehmungen können Unsicherheiten beseitigen, Preisvorteile erzielen und die Qualität der Vorleistungen erhöhen. Als Beispiel seien Just-in-time- und Just-in-sequence-Prozesse erwähnt, bei welchen in enger Zusammenarbeit die Lieferungen der Vorleistungen direkt und zeitgenau erfolgt und somit keine Lagerkosten beim Unternehmen nötig werden.
+
+Mitarbeiterentwicklung und -beteiligung
+Mitarbeiter sind regelmäßig fachlich, methodisch und in ihrem zwischenmenschlichen Verhalten zu schulen. Ihre Fähigkeiten müssen entdeckt, ausgebaut und eingesetzt werden. Entscheidungen für ihren Arbeitsbereich sollen sie selbst treffen und die dafür notwendige Information und Kompetenz erhalten. An Entscheidungen, die mittelbar ihren Arbeitsbereich beziehungsweise das ganze Unternehmen betreffen, sind sie umfassend zu beteiligen. Dies steigert die Motivation, Innovationsfähigkeit und Flexibilität.
+Hilfreich sind:
+Mitarbeiterbesprechungen
+Mentoring und Supervision 
+Jobsharing
+Teilautonome Arbeitsgruppen
+Ideencafe 
+
+
+Kernprozess
+Prozesse und Fakten
+Prozesse werden verstanden und ständig verbessert. Sie haben einen Verantwortlichen, der Sorge dafür trägt, dass sein Prozess reibungslos und effizient abgearbeitet wird. Jeder Mitarbeiter ist aufgefordert seinen Beitrag einzubringen, dass die Prozesse beherrscht werden. Das Management beruht auf Zahlen, Daten und Fakten (ZDF).
+
+Kontinuierliche Verbesserung
+Ständige Verbesserung und Innovationen
+Kontinuierliche Verbesserung ist das Prinzip. Originelle, kreative Denkansätze werden gefördert. Untersuchungen (Benchmarking) werden verwendet, um sich Anregungen bei den Besten zu holen. Lernen ist die Grundvoraussetzung, um besser werden zu können.
+KVP (Kontinuierlicher Verbesserungsprozess) oder auch Kaizen (japanisch für „Veränderung zum Besseren“) ist eine innere Haltung und wird von jedem Mitarbeiter und jedem Team gelebt. Er betrifft die Prozesse, die Produkte und alle Beziehungen. Die Methode heißt PDCA-Zyklus. PDCA steht für Plan, Do, Check, Act.
+
+Führen und Zielkonsequenz
+Führen zu exzellenten Leistungen ist eine professionelle Tätigkeit. Führungskräfte prägen die Unternehmenskultur und tragen eine besondere Verantwortung für die Mitarbeiterzufriedenheit und für die Geschäftsergebnisse. Das Verhalten der Mitarbeiter stimmt mit den Werten der Organisation, der Politik und der Strategie überein.
+
+Gesellschaftliche Verantwortung
+Gesellschaftliche Anforderungen, Gesetze und Vorschriften werden erfüllt. Die Organisation und ihre Mitarbeiter verhalten sich ethisch einwandfrei.
+
+Ergebnisorientierung
+Langfristig können nur exzellente Ergebnisse erreicht werden, wenn die Interessen aller Beteiligten in einem ausgewogenen und fairen Verhältnis berücksichtigt werden.
+ (Quelle: https://de.wikipedia.org/wiki/EFQM-Modell 25.1.16)
 ------------------------------------------------------------
 
 So, nun haben wir diese Geimeinschaft vorerst als Gemeinschaft der Unternehmenden definiert. Das erste Projekt wird der [Film](https://github.com/EntrepreneursWithPureIntentions/future). Menschen werden mit dazu kommen und uns helfen!
