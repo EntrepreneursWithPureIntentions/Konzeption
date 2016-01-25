@@ -41,23 +41,25 @@ Es ist alles möglich!
 
 >> Ziele müssen "AROMA" haben. Aussagefähig, Realistisch, Objektiv, Messbar, Annehmbar.
 
-Das EFQM-Modell ist ein Qualitätsmanagement-System des Total-Quality-Management. Es wurde 1988 von der European Foundation for Quality Management (EFQM) entwickelt. Das EFQM-Modell für Business Excellence ist ein Unternehmensmodell, das eine ganzheitliche Sicht auf Organisationen ermöglicht. Es bietet Organisationen Hilfestellung für den Aufbau und die kontinuierliche Weiterentwicklung von umfassenden Managementsystemen. Die Unternehmen nutzen es als Werkzeug, um auf Grundlage von Selbstbewertungen Stärken und Verbesserungspotentiale zu ermitteln, anzuregen und ihren Geschäftserfolg zu verbessern.[2]
-Das einfache Modell umfasst die drei Säulen:
+> Das EFQM-Modell ist ein Qualitätsmanagement-System des Total-Quality-Management. Es wurde 1988 von der European Foundation for Quality Management (EFQM) entwickelt. Das EFQM-Modell für Business Excellence ist ein Unternehmensmodell, das eine ganzheitliche Sicht auf Organisationen ermöglicht. Es bietet Organisationen Hilfestellung für den Aufbau und die kontinuierliche Weiterentwicklung von umfassenden Managementsystemen. Die Unternehmen nutzen es als Werkzeug, um auf Grundlage von Selbstbewertungen Stärken und Verbesserungspotentiale zu ermitteln, anzuregen und ihren Geschäftserfolg zu verbessern.[2]
+
+> Das einfache Modell umfasst die drei Säulen:
 1. Menschen
 2. Prozesse
 3. Ergebnisse
-Um dauerhaft exzellente Ergebnisse zu erzielen, werden alle Mitarbeiter in einen kontinuierlichen Verbesserungsprozess eingebunden. Es soll helfen, eigene Stärken, Schwächen und Verbesserungspotenziale zu erkennen und die Unternehmensstrategie darauf auszurichten.
 
-Das erweiterte System unterscheidet neun Kriterien, die aus fünf Voraussetzungen (enablers) und vier Ergebniskriterien (results) bestehen. Sie werden jeweils für den Europäischen Qualitätspreis gewichtet:
+> Um dauerhaft exzellente Ergebnisse zu erzielen, werden alle Mitarbeiter in einen kontinuierlichen Verbesserungsprozess eingebunden. Es soll helfen, eigene Stärken, Schwächen und Verbesserungspotenziale zu erkennen und die Unternehmensstrategie darauf auszurichten.
 
-Voraussetzungen / Befähiger	50 %
+> Das erweiterte System unterscheidet neun Kriterien, die aus fünf Voraussetzungen (enablers) und vier Ergebniskriterien (results) bestehen. Sie werden jeweils für den Europäischen Qualitätspreis gewichtet:
+
+> Voraussetzungen / Befähiger	50 %
 1. Führung	10 %
 2. Strategie	10 %
 3. Mitarbeiter	10 %
 4. Partnerschaften und Ressourcen	10 %
 5. Prozesse, Produkte und Dienstleistungen	10 %
 
-Ergebniskriterien	50 %
+> Ergebniskriterien	50 %
 6. Kundenbezogene Ergebnisse	15 %
 7. Mitarbeiterbezogene Ergebnisse	10 %
 8. Gesellschaftsbezogene Ergebnisse	10 %
@@ -66,7 +68,7 @@ Ergebniskriterien	50 %
 
 >> Befähiger-Kriterien 1-5
 
-1. Führung[Bearbeiten]
+> 1. Führung[Bearbeiten]
 Teilkriterium 1a
 Führungskräfte entwickeln die Vision, Mission, Werte und ethischen Grundsätze und sind Vorbilder.
 Teilkriterium 1b
@@ -78,7 +80,7 @@ Führungskräfte stärken zusammen mit den Mitarbeitern der Organisation eine Ku
 Teilkriterium 1e
 Führungskräfte gewährleisten, dass die Organisation flexibel ist und Veränderungen effektiv gemanagt werden.
 
-2. Strategie[Bearbeiten]
+> 2. Strategie[Bearbeiten]
 Teilkriterium 2a
 Die Strategie beruht auf dem Verständnis der Bedürfnisse und Erwartungen der Interessengruppen und des externen Umfelds.
 Teilkriterium 2b
@@ -88,7 +90,7 @@ Die Strategie und unterstützende Leitlinien werden entwickelt, überprüft und 
 Teilkriterium 2d
 Die Strategie und die unterstützenden Leitlinien werden kommuniziert und durch Pläne, Prozesse und Zielsetzungen umgesetzt.
 
-3. Mitarbeitende[Bearbeiten]
+> 3. Mitarbeitende[Bearbeiten]
 Teilkriterium 3a
 Personalpläne unterstützen die Strategie der Organisation.
 Teilkriterium 3b
@@ -100,7 +102,7 @@ Mitarbeiter kommunizieren wirkungsvoll in der gesamten Organisation.
 Teilkriterium 3e
 Mitarbeiter werden belohnt, anerkannt und betreut.
 
-4. Partnerschaften und Ressourcen[Bearbeiten]
+> 4. Partnerschaften und Ressourcen[Bearbeiten]
 Teilkriterium 4a
 Partner und Lieferanten werden zu nachhaltigem Nutzen gemanagt.
 Teilkriterium 4b
@@ -112,7 +114,7 @@ Technologie wird gemanagt, um die Realisierung der Strategie zu unterstützen.
 Teilkriterium 4e
 Informationen und Wissen werden gemanagt, um die effektive Entscheidungsfindung zu unterstützen und um die Fähigkeiten der Organisation aufzubauen.
 
-5. Prozess[Bearbeiten]
+> 5. Prozess[Bearbeiten]
 Teilkriterium 5a
 Prozesse werden entwickelt und gemanagt, um den Nutzen für die Interessengruppen zu optimieren.
 Teilkriterium 5b
@@ -125,38 +127,39 @@ Teilkriterium 5e
 Kundenbeziehungen werden gemanagt und vertieft.
 
 >> Ergebniskriterien 6-9
-6. Kundenbezogene Ergebnisse[Bearbeiten]
+> 6. Kundenbezogene Ergebnisse[Bearbeiten]
 Indikatoren: Reaktionszeit, Ausfallraten
 Wahrnehmung durch Zielgruppe: Erreichbarkeit und Qualität
 
-7. Mitarbeiterbezogene Ergebnisse[Bearbeiten]
+> 7. Mitarbeiterbezogene Ergebnisse[Bearbeiten]
 Indikatoren: Personalfluktuation und Mitwirkung in Verbesserungsteams
 Wahrnehmung durch Zielgruppe: Karrieremöglichkeiten und Chancengleichheit
 
-8. Stakeholderbezogene Ergebnisse[Bearbeiten]
+> 8. Stakeholderbezogene Ergebnisse[Bearbeiten]
 Indikatoren: Auszeichnungen, Sponsoring von sozialen oder ökologischen Projekten
 Wahrnehmung durch Zielgruppe: Image als Arbeitgeber und Transparenz
 
-9. Schlüsselergebnisse[Bearbeiten]
+> 9. Schlüsselergebnisse[Bearbeiten]
 Indikatoren: Durchlaufzeiten, Wert des intellektuellen Kapitals
 Wahrnehmung durch Zielgruppe: Rentabilität, Marktanteil
 
 >> Grundprinzipien 2003
 Das Modell basiert auf acht Grundprinzipien:
-Kundenorientierung
+
+> Kundenorientierung
 In den Zeiten gesättigter Märkte, intensiven Wettbewerbs und hoher Informationstransparenz steht der Kunde im Mittelpunkt des Interesses. Denn er entscheidet über den Markterfolg eines Produktes oder einer Dienstleistung. Die erbrachte Leistung der Unternehmung muss den Wünschen und Bedürfnissen der Kunden entsprechen, um dauerhaft erfolgreich am Markt agieren zu können. Nur über den Absatz von Dienstleistungen oder Produkten an Kunden kann die Unternehmung Umsätze generieren, ihre Ziele erreichen und weiterhin am Marktgeschehen teilnehmen.
 
-Dadurch ergeben sich folgende Vorteile:
+> Dadurch ergeben sich folgende Vorteile:
 motivierte Mitarbeiter
 zufriedene Kunden
 Kundentreue und Kundenbindung
 Stärkung der Marktposition
 Langfristiger Erfolg der Organisation
 
-Partnerschaft mit Lieferanten
+> Partnerschaft mit Lieferanten
 Mit den Lieferanten sollte vertrauensvoll zusammengearbeitet werden. Die Leistungen der Zulieferer gehen als Input in den Produktionsprozess mit ein und wirken sich somit auf die Qualität des Endproduktes aus. Partnerschaften mit Zulieferunternehmungen können Unsicherheiten beseitigen, Preisvorteile erzielen und die Qualität der Vorleistungen erhöhen. Als Beispiel seien Just-in-time- und Just-in-sequence-Prozesse erwähnt, bei welchen in enger Zusammenarbeit die Lieferungen der Vorleistungen direkt und zeitgenau erfolgt und somit keine Lagerkosten beim Unternehmen nötig werden.
 
-Mitarbeiterentwicklung und -beteiligung
+> Mitarbeiterentwicklung und -beteiligung
 Mitarbeiter sind regelmäßig fachlich, methodisch und in ihrem zwischenmenschlichen Verhalten zu schulen. Ihre Fähigkeiten müssen entdeckt, ausgebaut und eingesetzt werden. Entscheidungen für ihren Arbeitsbereich sollen sie selbst treffen und die dafür notwendige Information und Kompetenz erhalten. An Entscheidungen, die mittelbar ihren Arbeitsbereich beziehungsweise das ganze Unternehmen betreffen, sind sie umfassend zu beteiligen. Dies steigert die Motivation, Innovationsfähigkeit und Flexibilität.
 Hilfreich sind:
 Mitarbeiterbesprechungen
@@ -166,22 +169,22 @@ Teilautonome Arbeitsgruppen
 Ideencafe 
 
 
-Kernprozess
+> Kernprozess
 Prozesse und Fakten
 Prozesse werden verstanden und ständig verbessert. Sie haben einen Verantwortlichen, der Sorge dafür trägt, dass sein Prozess reibungslos und effizient abgearbeitet wird. Jeder Mitarbeiter ist aufgefordert seinen Beitrag einzubringen, dass die Prozesse beherrscht werden. Das Management beruht auf Zahlen, Daten und Fakten (ZDF).
 
-Kontinuierliche Verbesserung
+> Kontinuierliche Verbesserung
 Ständige Verbesserung und Innovationen
 Kontinuierliche Verbesserung ist das Prinzip. Originelle, kreative Denkansätze werden gefördert. Untersuchungen (Benchmarking) werden verwendet, um sich Anregungen bei den Besten zu holen. Lernen ist die Grundvoraussetzung, um besser werden zu können.
 KVP (Kontinuierlicher Verbesserungsprozess) oder auch Kaizen (japanisch für „Veränderung zum Besseren“) ist eine innere Haltung und wird von jedem Mitarbeiter und jedem Team gelebt. Er betrifft die Prozesse, die Produkte und alle Beziehungen. Die Methode heißt PDCA-Zyklus. PDCA steht für Plan, Do, Check, Act.
 
-Führen und Zielkonsequenz
+> Führen und Zielkonsequenz
 Führen zu exzellenten Leistungen ist eine professionelle Tätigkeit. Führungskräfte prägen die Unternehmenskultur und tragen eine besondere Verantwortung für die Mitarbeiterzufriedenheit und für die Geschäftsergebnisse. Das Verhalten der Mitarbeiter stimmt mit den Werten der Organisation, der Politik und der Strategie überein.
 
-Gesellschaftliche Verantwortung
+> Gesellschaftliche Verantwortung
 Gesellschaftliche Anforderungen, Gesetze und Vorschriften werden erfüllt. Die Organisation und ihre Mitarbeiter verhalten sich ethisch einwandfrei.
 
-Ergebnisorientierung
+> Ergebnisorientierung
 Langfristig können nur exzellente Ergebnisse erreicht werden, wenn die Interessen aller Beteiligten in einem ausgewogenen und fairen Verhältnis berücksichtigt werden.
 Quelle: https://de.wikipedia.org/wiki/EFQM-Modell 25.1.16
  
