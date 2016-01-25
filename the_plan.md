@@ -179,7 +179,58 @@ Gesellschaftliche Anforderungen, Gesetze und Vorschriften werden erfüllt. Die O
 
 Ergebnisorientierung
 Langfristig können nur exzellente Ergebnisse erreicht werden, wenn die Interessen aller Beteiligten in einem ausgewogenen und fairen Verhältnis berücksichtigt werden.
- (Quelle: https://de.wikipedia.org/wiki/EFQM-Modell 25.1.16)
+Quelle: https://de.wikipedia.org/wiki/EFQM-Modell 25.1.16
+ 
+ == Reifegrad ==
+Anhand der Selbstbewertung kann der Reifegrad eines Unternehmens bezogen auf andere festgestellt werden. Unterschieden werden die drei Stufen: Anfänge, auf dem Weg und reife Organisation. Für jedes Grundkonzept ist beschrieben, wie ausgeprägt die Fähigkeiten und deren Umsetzung für jede Stufe sein müssen.<ref name="Grundkonzepte" />
+
+{| class="wikitable"
+! Grundkonzept || Anfänge || auf dem Weg || reife Organisation
+|-
+! ausgewogene Ergebnisse erzielen
+| Alle relevanten Interessengruppen sind identifiziert.
+| Die Bedürfnisse der Interessengruppen werden systematisch bewertet.
+| Es gibt transparente Vorgehensweisen, um die Erwartungen der Interessengruppen auszugleichen.
+|-
+! Nutzen für Kunden schaffen
+| Kundenzufriedenheit wird bewertet.
+| Ziele und Teilziele sind mit den Kundenbedürfnissen und -erwartungen verknüpft. Aspekte zur Loyalität werden untersucht.
+| Treibende Kräfte bzgl. Kundenzufriedenheitsbedürfnisse und Loyalitätsaspekten werden verstanden, gemessen und lösen Maßnahmen aus.
+|-
+! mit Vision, Inspiration und Integrität führen
+| Vision und Mission sind formuliert.
+| Politik, Mitarbeiter und Prozesse sind auf die Vision / Mission ausgerichtet. Es gibt ein Führungskonzept.
+| Auf allen Organisationsebenen gibt es gemeinsame Werte und ethische Vorbilder.
+|-
+! Prozesse managen
+| Die Prozesse zum Erzielen der gewünschten Ergebnisse sind definiert.
+| Vergleichsdaten und -informationen werden verwendet, um herausfordernde Ziele zu setzen.
+| Die Prozessfähigkeit wird voll verstanden und verwendet, um Leistungsverbesserungen voranzutreiben.
+|-
+! durch Mitarbeiter erfolgreich sein
+| Die Mitarbeiter fühlen sich eigenverantwortlich für die Lösung von Problemen.
+| Die Mitarbeiter arbeiten innovativ und kreativ daran mit, die Ziele der Organisation zu unterstützen.
+| Die Mitarbeiter sind ermächtigt zu handeln und teilen offen Wissen und Erfahrung miteinander.
+|-
+! Innovation und Kreativität fördern
+| Verbesserungsmöglichkeiten sind identifiziert und Maßnahmen werden ergriffen.
+| Kontinuierliche Verbesserung ist ein anerkanntes Ziel für alle.
+| Erfolgreiche Innovation und Verbesserung ist weit verbreitet und integriert.
+|-
+! Partnerschaften aufbauen
+| Es gibt einen Prozess zur Auswahl und zum Managen von Lieferanten.
+| Verbesserungen und Leistungen von Lieferanten werden erkannt und wichtige externe Partner wurden identifiziert.
+| Die Organisation und ihre wichtigsten Partner sind voneinander abhängig – Pläne und Politik werden gemeinsam entwickelt und beruhen auf dem Austausch von Wissen.
+|-
+! Verantwortung für nachhaltige Zukunft übernehmen
+| Gesetzliche und behördliche Auflagen werden verstanden und eingehalten.
+| Es gibt ein aktives Engagement für die Gesellschaft.
+| Die Erwartungen der Gesellschaft werden gemessen und es werden Maßnahmen ergriffen.
+|}
+
+ 
+ 
+ 
 ------------------------------------------------------------
 
 So, nun haben wir diese Geimeinschaft vorerst als Gemeinschaft der Unternehmenden definiert. Das erste Projekt wird der [Film](https://github.com/EntrepreneursWithPureIntentions/future). Menschen werden mit dazu kommen und uns helfen!
