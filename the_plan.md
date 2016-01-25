@@ -202,4 +202,14 @@ Anhand der Selbstbewertung kann der Reifegrad eines Unternehmens bezogen auf and
 
 So, nun haben wir diese Geimeinschaft vorerst als Gemeinschaft der Unternehmenden definiert. Das erste Projekt wird der [Film](https://github.com/EntrepreneursWithPureIntentions/future). Menschen werden mit dazu kommen und uns helfen!
 
+S Spezifisches Ziel: Film produzieren
+
+M Messbare Ziele:  
+
+A Akzeptiert Ziele: Ziele müssen von den Empfängern akzeptiert werden/sein (auch: angemessen, attraktiv, abgestimmt ausführbar oder anspruchsvoll
+
+R Realistische Ziele: Teiletappen und Teilziele definieren. (Manuskript schreiben, Kontaktaufnahme zu Prduzenten,Schauspielern (Casting?), Manuskript für Trailer entwerfen, usw.
+
+T Terminiert:
+
 Zum weiteren Plan vom Film, siehe [https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md](https://github.com/EntrepreneursWithPureIntentions/future/blob/master/plan.md)
