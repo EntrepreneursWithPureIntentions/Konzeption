@@ -1,5 +1,7 @@
 
-In diesen Dateien werden zunächst zahlreiche Informotionen über bereits existierende Unternehmen gesammelt, die mit reinen Absichten handeln, um von diesen zu lernen. Daraus werden unterschiedliche wirtschaftswissenschaftliche Aspekte für eine fundierte Konzeption gesammelt und eine eigene Konzeption erarbeitet. Die Gesellschaft für Unternehmer mit reinen Absichten (GfUmrA) möchte Unernehmer vereinen, die Anastasias Traum von Familienlandsitzen für alle Menschen unter folgenden 3 Bedingungen erfüllt sehen möchten:
+In diesen Dateien werden zunächst zahlreiche Informotionen über bereits existierende Unternehmen gesammelt, die mit reinen Absichten handeln, um von diesen zu lernen. Daraus werden unterschiedliche wirtschaftswissenschaftliche Aspekte für eine fundierte Konzeption herausgearbeitet und eine eigene Konzeption erstellt, die Zielen unserer Gesellschaft dient. 
+
+Die Gesellschaft für Unternehmer mit reinen Absichten (GfUmrA) möchte Unernehmer vereinen, die Anastasias Traum von Familienlandsitzen für alle Menschen unter folgenden 3 Bedingungen erfüllt sehen möchten:
 
 1. Kostenloses Grundstück von mindestens 1 Hektar Größe (10.000 m²) für jede Familie die es wünscht
 2. Keine Steuern auf sämtliche Produkte, die auf einem Familienlandsitz produziert werden
