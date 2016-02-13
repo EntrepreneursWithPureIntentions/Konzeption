@@ -2,9 +2,12 @@ This will be our plan for the future...
 
 __TODO__
 
-> S Spezifisch Ziele: eine Gemeinschaft von Unternehmern mit reinen Absichten gründen, um unter Anderem die Ideen von Anastasia zu unterstützten und umzusetzten. Solange der Gesetzgeber die Ideen der Familienlandsitzsiedlungen nicht gezielt unterstützt, soll die GvUmrA Menschen unterstützten einen Familienlandsitz bekommen zu können.
+> S Unser spezifisches Ziel ist es, eine Gemeinschaft von Unternehmern mit reinen Absichten zu gründen, um den Traum Anastasias zu unterstützten und ihre Idee der Familienlandsitzsiedlungen umzusetzten. Solange der Gesetzgeber die Ideen der Familienlandsitzsiedlungen nicht gezielt unterstützt, soll die GvUmrA Menschen unterstützten, einen Familienlandsitz zu bekommen.
 
-> M Messbar Ziele: Die menge der erwirtschafteten Mittel und die "Ausschüttung" dieser Mittel an "hilfesuchende" oder "bedürftige" Menschen
+> M Messbar Ziele: Das Unternehmsziel der GvUmrA ist die wirtschaftliche und gemeinnützige Unterstützung von Menschen, die Anastasias Traum wahrgenommen und für sich übernommen haben. Der erwirtschaftete Gewinn der GvUmrA soll der Verwirklichung dieses Zieles dienen, indem das Geld zum Erwerb eines mind. 1 HA großen Grundstücks nach den 3 Prinzipien für eine Familie möglich gemacht wird.  
+
+gemeinnützige Unterstützung von 
+menge der erwirtschafteten Mittel und die "Ausschüttung" dieser Mittel an "hilfesuchende" oder "bedürftige" Menschen für ihre Traumverwirklichung.
 
 > A Akzeptiert Ziele: da es sich bei dem Unternehmen und Gemeinnützigkeit handelt, erwarten die Unternehmer keine Gegenleistung.
 
